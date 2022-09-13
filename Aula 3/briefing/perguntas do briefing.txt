@@ -1,0 +1,31 @@
+perguntas para fazer durante o briefing?
+.O que voce deseja num site?
+.Qual seu publico alvo?
+.Alguma exigencia?
+.Você já tem logo ou quer a criação de uma nova?
+Nome
+.Qual a empresa?
+.O que é a empresa?
+
+Conceito
+.O que representa a empresa? setor, área, ferramenta, que atinge ou atende a empresa
+.Qual a imagem que quer que o site passe?
+
+Produto/Serviço
+.O que será vendido ou ofertado pela empresa?
+.Existe uma outra empresa com o mesmo nome?
+
+
+________---Briefing de um Site---____________
+        •Estratégia de Negócio
+        •Público-alvo
+        •Objetivo do Site
+        •Concorrentes
+        •Aparência esperada
+        •Prazo de entrega
+        •Apresentação/Conteúdo
+        •Experiência (UX)
+        •Navegadores
+        •Idioma do Site
+        •Qual é o Contexto?
+

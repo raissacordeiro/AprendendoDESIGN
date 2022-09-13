@@ -1,0 +1,25 @@
+Briefing
+
+Situação-problema:
+Cliente trabalha no senai e foi designado em achar uma alternativa para acabar com o papel com a lista de chamadas e notas dos alunos onde os professores e os alunos consigam fazer o controle de presença.
+Publico alvo: Alunos e professores.
+
+Pergunta 1: Exigência de layout.
+Cliente: seguir a estrutura do site oficial do SENAI.
+
+Pergunta 2: Dados dos alunos.
+Cliente: preciso coletar as informações, mas não preciso exibi-las na na tela.
+
+Pergunta 3: Qual será a paleta de cores.
+Cliente: padrão-SENAI
+
+Pergunta 4: Deseja uma plataforma responsiva.
+Cliente: focar em desenvolvimento desktop.
+
+Pergunta 5: Nome da aba.
+Cliente: portal aluno e professor.
+
+Pergunta 6: Quem usaria o sistema.
+Cliente: aluno e professor. 
+
+
